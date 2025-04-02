@@ -2,6 +2,7 @@
 
 # Ignore all contents of Classification/weights/
 Classification/weights/*
+Classification/.ipynb_checkpoints
 
 # But do not ignore the folder itself
 !Classification/weights/.gitkeep
