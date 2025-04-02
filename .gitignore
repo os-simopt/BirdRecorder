@@ -1,0 +1,8 @@
+# .gitignore
+
+# Ignore all contents of Classification/weights/
+Classification/weights/*
+
+# But do not ignore the folder itself
+!Classification/weights/.gitkeep
+
